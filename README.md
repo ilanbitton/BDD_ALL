@@ -1,2 +1,2 @@
 # BBD_ALL
-BDD scripts et poly de cours et TD-TP
+BDD : Cours - TD/TP - TD/TP Corrections - Scripts 
